@@ -31,4 +31,4 @@ jobs:
           step='${{ secrets.STEP }}'
 
           python3 main.py ${pmode} ${pkey} ${user} ${pwd} ${step}
-网页图片词典社交音乐视频资源应用购物
+
